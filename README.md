@@ -7,10 +7,12 @@
 
 **Building reliable, scalable systems and intelligent applications.**
 
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ambadkar06)
-![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+[![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://drive.google.com/file/d/1dw3Q95mVL-OOdQuJA2Nv_2XLwaJ53sBV/view)
 
 </div>
+
 
 ---
 
@@ -155,11 +157,16 @@ Duckboard is a browser-native analytics studio that enables users to explore dat
 
 ## 🏅 Certification
 
+<a href="https://drive.google.com/file/d/1dw3Q95mVL-OOdQuJA2Nv_2XLwaJ53sBV/view" target="_blank">
+  <img src="https://img.shields.io/badge/AWS-Certified_AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner"/>
+</a>
+
 **AWS Certified AI Practitioner (AIF-C01)**
 
-Foundational knowledge of AI/ML concepts, generative AI, AWS AI services, responsible AI, and AI security.
+Verified knowledge of AI/ML fundamentals, generative AI, Amazon Bedrock, responsible AI, and AWS AI services.
 
----
+📜 [View My AWS Certification](https://drive.google.com/file/d/1dw3Q95mVL-OOdQuJA2Nv_2XLwaJ53sBV/view)
+
 
 ## 🌐 Connect With Me
 
