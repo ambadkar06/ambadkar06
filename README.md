@@ -1,136 +1,177 @@
-<h1 align="center">Hi 👋, I'm Sakshi Ambadkar</h1>
-<p align="center">
-  <b>Software Engineer • Full Stack • Backend • Data Engineering</b>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer+with+2%2B+years+experience;Building+scalable+backend+and+full-stack+systems;Microservices+%7C+Cloud+%7C+Data+Engineering;Always+learning%2C+always+shipping" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=35&desc=Building%20reliable%20systems%20at%20scale%20🚀&descAlign=50&descAlignY=60&color=gradient" />
-</p>
+# Hi, I'm Sakshi Ambadkar 👋
 
----
+### Software Engineer | Backend & Distributed Systems | Cloud & Applied AI
 
-## 🚀 About Me
-- 💻 Software Engineer with **2+ years of experience** across backend, full stack, and data engineering
-- 🧠 Strong in **Java, Python, JavaScript/TypeScript**, and scalable system design
-- ⚙️ Built **microservices, event-driven systems, and data pipelines** processing millions of events
-- ☁️ Experienced with **AWS, Azure, Docker, Kubernetes, CI/CD**
-- 🎯 Focused on **performance, reliability, and clean architecture**
+**Building reliable, scalable systems and intelligent applications.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ambadkar06)
+![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👩‍💻 About Me
+
+I'm a **Software Engineer with 4+ years of experience** building scalable applications, backend services, cloud-native platforms, and data processing systems.
+
+My expertise spans **backend engineering, distributed systems, full-stack development, and cloud infrastructure**, with a focus on designing reliable systems that solve real-world problems.
+
+- ⚡ **Scalable Systems:** Experience building event-driven pipelines processing **2M+ events/day** and applications supporting **8,700+ concurrent users**.
+- 🏗️ **Backend Engineering:** Designing REST APIs, microservices, asynchronous workflows, and database-backed applications.
+- ☁️ **Cloud & DevOps:** Building AWS solutions with **Lambda, S3, SQS, RDS, Docker, and CI/CD pipelines**.
+- 🤖 **Applied AI:** Working with LLM-powered applications, intelligent automation, document analysis, and AI workflows.
+- 🧩 **Full-Stack Development:** Building applications using React, TypeScript, Next.js, Node.js, Python, and SQL.
+- 🎯 **Engineering Focus:** System design, performance optimization, reliability, observability, and maintainable architecture.
+- 🏅 **Certification:** AWS Certified AI Practitioner (AIF-C01).
+
+**Currently interested in:** Software Engineering, Backend Engineering, Cloud Infrastructure, and Applied AI.
+
+---
+
+## 🛠️ Technical Skills
 
 ### Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ### Backend & APIs
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-black?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-black?style=for-the-badge" />
-</p>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 
 ### Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
 
-### Cloud, Data & DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-black?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 
----
-## 🏢 Experience & Affiliations
+### Cloud & DevOps
 
-<p align="center">
-  <a href="https://www.volvogroup.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ambadkar06/my-portfolio/main/volvo.png" height="75" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-  <a href="https://www.discounttire.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ambadkar06/my-portfolio/main/DTC.png" height="65" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+### Databases & Data
 
-  <a href="https://www.eventeny.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ambadkar06/my-portfolio/main/EV.jpeg" height="30" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 
-  <a href="https://www.asu.edu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ambadkar06/my-portfolio/main/ASU.png" height="65" />
-  </a>
-</p>
+### AI & Machine Learning
 
-<p align="center">
-  <b>Software Engineer & Intern Experience</b>
-</p>
-
-<p align="center">
-  <i>Volvo Group • Discount Tire • Eventeny • Arizona State University</i>
-</p>
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0F766E?style=flat-square)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI_Automation-2563EB?style=flat-square)
 
 ---
 
-## 🔥 Featured Projects
+## 💼 Professional Experience
+
+My work includes enterprise software development, cloud-based applications, backend integrations, data processing, and full-stack engineering.
+
+**Organizations I've worked with include:**
+
+<div align="center">
+
+<a href="https://www.volvogroup.com/">
+  <img src="https://raw.githubusercontent.com/ambadkar06/my-portfolio/main/volvo.png" height="65" alt="Volvo Group"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.discounttire.com/">
+  <img src="https://raw.githubusercontent.com/ambadkar06/my-portfolio/main/DTC.png" height="60" alt="Discount Tire"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.eventeny.com/">
+  <img src="https://raw.githubusercontent.com/ambadkar06/my-portfolio/main/EV.jpeg" height="40" alt="Eventeny"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.asu.edu/">
+  <img src="https://raw.githubusercontent.com/ambadkar06/my-portfolio/main/ASU.png" height="60" alt="Arizona State University"/>
+</a>
+
+</div>
+
+### Selected Engineering Impact
+
+- Built and maintained event-driven AWS integrations handling **2M+ events/day**.
+- Developed scalable application systems supporting **8,700+ concurrent users**.
+- Built payment processing integrations handling **$50K+ monthly transaction volume**.
+- Improved CI/CD workflows, reducing deployment time by **43%**.
+- Developed inventory, procurement, and integration workflows using REST APIs, AWS services, and asynchronous processing.
+
+*Professional impact highlights are drawn from my work experience; proprietary source code is not publicly shared.*
+
 ---
 
-## 🧠 Duckboard — Browser-Native Analytics Studio
+## 🚀 Featured Project
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ambadkar06/duckboard-/main/git.jpeg" alt="Duckboard preview" width="90%" />
-</p>
+### 🧠 Duckboard — Browser-Native Analytics Studio
 
-<p align="center">
-  <a href="https://duckboard-mvgt.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-black?style=for-the-badge&logo=vercel" />
-  </a>
-  <a href="https://github.com/ambadkar06/duckboard-" target="_blank">
-    <img src="https://img.shields.io/badge/Source%20Code-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+**Privacy-first analytics powered by DuckDB and WebAssembly.**
 
-### 🚀 What it is
-**Duckboard** is a **privacy-first, serverless analytics studio** that runs entirely in the browser.  
-It allows users to analyze **CSV and Parquet files using SQL** and generate **publication-ready charts** without sending data to a server.
+Duckboard is a browser-native analytics studio that enables users to explore datasets, execute SQL queries, and generate visualizations without uploading their data to a traditional backend.
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ambadkar06/duckboard-/main/git.jpeg" alt="Duckboard Analytics Studio Preview" width="90%"/>
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://duckboard-mvgt.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ambadkar06/duckboard-)
+
+</div>
+
+**Key Capabilities**
+- **In-browser SQL analytics:** Execute SQL queries directly against supported datasets.
+- **Privacy-first processing:** Analyze data locally without relying on server-side processing.
+- **CSV & Parquet support:** Explore structured datasets using DuckDB.
+- **Data visualization:** Transform query results into presentation-ready charts.
+- **Browser-native architecture:** Use WebAssembly-powered analytics for interactive exploration.
+
+**Engineering Focus:** Client-side data processing, SQL execution, application performance, data visualization, and privacy-conscious architecture.
 
 ---
 
+## 🏅 Certification
 
+**AWS Certified AI Practitioner (AIF-C01)**
+
+Foundational knowledge of AI/ML concepts, generative AI, AWS AI services, responsible AI, and AI security.
+
+---
 
 ## 🌐 Connect With Me
-<p align="center">
-  <a href="https://github.com/ambadkar06">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <!-- Add when ready -->
-  <!--
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" />
-  </a>
-  -->
-</p>
 
-<p align="center">
-  <i>“I enjoy building systems that scale, perform, and last.”</i>
-</p>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ambadkar06)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshiambadkar6@gmail.com)
+
+</div>
+
+<div align="center">
+
+*Building systems that are scalable by design, reliable in production, and meaningful in impact.*
+
+</div>
