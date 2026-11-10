@@ -23,18 +23,18 @@ I'm a **Software Engineer with 4+ years of experience** building scalable applic
 My expertise spans **backend engineering, distributed systems, full-stack development, and cloud infrastructure**, with a focus on designing reliable systems that solve real-world problems.
 
 - ⚡ **Scalable Systems:** Experience building event-driven pipelines processing **2M+ events/day** and applications supporting **8,700+ concurrent users**.
-- 🏗️ **Backend Engineering:** Designing REST APIs, microservices, asynchronous workflows, and database-backed applications.
-- ☁️ **Cloud & DevOps:** Building AWS solutions with **Lambda, S3, SQS, RDS, Docker, and CI/CD pipelines**.
-- 🤖 **Applied AI:** Working with LLM-powered applications, intelligent automation, document analysis, and AI workflows.
-- 🧩 **Full-Stack Development:** Building applications using React, TypeScript, Next.js, Node.js, Python, and SQL.
-- 🎯 **Engineering Focus:** System design, performance optimization, reliability, observability, and maintainable architecture.
-- 🏅 **Certification:** AWS Certified AI Practitioner (AIF-C01).
+-  **Backend Engineering:** Designing REST APIs, microservices, asynchronous workflows, and database-backed applications.
+-  **AI & Generative AI:** Hands-on experience integrating LLMs into applications, including migrating from Grok to Amazon Bedrock, developing AI-powered workflows, and working with generative AI services on AWS.
+-  **Cloud & Backend Engineering:** Building scalable backend services, event-driven architectures, and cloud-native applications using AWS Lambda, S3, SQS, RDS, and Amazon Bedrock.
+-  **Full-Stack Development:** Building applications using React, TypeScript, Next.js, Node.js, Python, and SQL.
+-  **Engineering Focus:** System design, performance optimization, reliability, observability, and maintainable architecture.
+-  **Certification:** AWS Certified AI Practitioner (AIF-C01).
 
 **Currently interested in:** Software Engineering, Backend Engineering, Cloud Infrastructure, and Applied AI.
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Languages
 
@@ -87,7 +87,7 @@ My expertise spans **backend engineering, distributed systems, full-stack develo
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 My work includes enterprise software development, cloud-based applications, backend integrations, data processing, and full-stack engineering.
 
@@ -125,9 +125,9 @@ My work includes enterprise software development, cloud-based applications, back
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
-### 🧠 Duckboard — Browser-Native Analytics Studio
+### Duckboard — Browser-Native Analytics Studio
 
 **Privacy-first analytics powered by DuckDB and WebAssembly.**
 
@@ -155,7 +155,7 @@ Duckboard is a browser-native analytics studio that enables users to explore dat
 
 ---
 
-## 🏅 Certification
+##  Certification
 
 <a href="https://drive.google.com/file/d/1dw3Q95mVL-OOdQuJA2Nv_2XLwaJ53sBV/view" target="_blank">
   <img src="https://img.shields.io/badge/AWS-Certified_AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner"/>
@@ -165,10 +165,10 @@ Duckboard is a browser-native analytics studio that enables users to explore dat
 
 Verified knowledge of AI/ML fundamentals, generative AI, Amazon Bedrock, responsible AI, and AWS AI services.
 
-📜 [View My AWS Certification](https://drive.google.com/file/d/1dw3Q95mVL-OOdQuJA2Nv_2XLwaJ53sBV/view)
+ [View My AWS Certification](https://drive.google.com/file/d/1dw3Q95mVL-OOdQuJA2Nv_2XLwaJ53sBV/view)
 
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
