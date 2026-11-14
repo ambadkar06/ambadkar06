@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/github-cover.png" alt="Sakshi Ambadkar — Lead Software Engineer focused on Generative AI, LLM systems, and cloud engineering" width="100%" />
+  <img src=".github-cover.png" alt="Sakshi Ambadkar — Lead Software Engineer focused on Generative AI, LLM systems, and cloud engineering" width="100%" />
 
   <br />
 
