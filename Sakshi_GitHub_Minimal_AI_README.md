@@ -29,8 +29,4 @@ Python and LLM-powered document intelligence, classification, and opportunity ma
 
 **Explore public code:** [FlightFinder Pro](https://github.com/ambadkar06/FlighFinderPro) · [Bank Loans Backend](https://github.com/ambadkar06/Bank-Loans-Backend)
 
-<div align="center">
 
-**Open to AI Engineer · GenAI Engineer · Software Engineer roles**
-
-</div>
